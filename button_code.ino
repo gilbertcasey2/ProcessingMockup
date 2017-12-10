@@ -36,9 +36,9 @@
 */
 const char* ssid = "RIT-Legacy";
 //const char* ssid = "Verizon-MiFi5510L-5578";
-//const char* pw = "cbb24fd3";
+
 //const char* ssid = "time";
-//const char* pw = "cappyhampers";
+
 
 /*
  * Variables
